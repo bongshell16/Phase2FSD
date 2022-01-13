@@ -47,7 +47,7 @@ h1 {
 	margin: -100px 0 0 -100px;
 }
 </style>
-<title>Portal</title>
+<title>FLYAWAY</title>
 </head>
 <body>
 	<h1>AIRLINE BOOKING PORTAL</h1>
